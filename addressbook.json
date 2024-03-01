@@ -1,0 +1,17 @@
+{
+  "John Doe": {
+    "Address": "123 Main Street, Cityville",
+    "Phone": "555-1234",
+    "Email": "john@example.com"
+  },
+  "Jane Smith": {
+    "Address": "456 Elm Street, Townsville",
+    "Phone": "555-5678",
+    "Email": "jane@example.com"
+  },
+  "Michael Johnson": {
+    "Address": "789 Oak Street, Villageton",
+    "Phone": "555-9012",
+    "Email": "michael@example.com"
+  }
+}
